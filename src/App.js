@@ -10,7 +10,7 @@ import Featured from './pages/Featured';
 
 function App() {
   return (
-    <Router basename="/PeepleWeb-wireframe">
+    <Router basename="/PeepleWeb-wireframe/">
       <Switch>
         <Route path="/" exact component={Login} />
         <Route path="/login" component={Login} />
