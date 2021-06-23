@@ -87,7 +87,7 @@ const Login = () => {
             control={<Checkbox value="remember" color="primary" />}
             label="Remember me"
           />
-          <Link to="/home" style={{textDecoration: 'none'}}>
+          <Link to="/featured" style={{textDecoration: 'none'}}>
           <Button
             type="submit"
             fullWidth

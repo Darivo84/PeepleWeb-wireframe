@@ -120,7 +120,7 @@ const Register = () => {
               />
             </Grid>
           </Grid>
-          <Link to="/home" style={{textDecoration: 'none'}}>
+          <Link to="/featured" style={{textDecoration: 'none'}}>
           <Button
             type="submit"
             fullWidth
